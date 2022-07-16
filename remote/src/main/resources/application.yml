@@ -1,0 +1,13 @@
+server:
+  port: 8001
+
+#dubbo consumer配置
+dubbo:
+  application:
+    name: dubbo-consumer
+  registry:
+    address: zookeeper://192.168.0.101:2181
+    #注册中心：zookeeper集群方式, leader?backup=follower1,follower2
+    #address: zookeeper://192.168.0.101:2181?backup=192.168.0.101:2182,192.168.0.101:2183
+    #注册中心：广播方式
+    #address: multicast://224.5.6.7:1234

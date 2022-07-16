@@ -1,0 +1,16 @@
+server:
+  port: 8002
+
+#配置dubbo provider环境
+dubbo:
+  application:
+    name: dubbo-provider
+  registry:
+    address: zookeeper://192.168.0.101:2181
+  #广播方式
+    #address: multicast://224.5.6.7:1234
+  protocol:
+    name: dubbo
+    port: 20880
+  scan:
+    base-packages: org.ycx.dubbo.core.facade

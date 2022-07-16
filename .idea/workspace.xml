@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5cc36fd-b71b-470e-bd63-df42a6373075" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="270" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.3/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Bi6aRe7LDOE5gD8ttPuZBue4F2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RemoteApplication">
+    <configuration name="CoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.ycx.dubbo.core.CoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoteApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="remote" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ycx.dubbo.remote.RemoteApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.17606042" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5cc36fd-b71b-470e-bd63-df42a6373075" name="Default Changelist" comment="" />
+      <created>1657376621879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657376621879</updated>
+      <workItem from="1657376630833" duration="5118000" />
+      <workItem from="1657423391018" duration="10570000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="273" key="#com.intellij.ide.util.MemberChooser" timestamp="1657432159892">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="709" y="273" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1657432159892" />
+    <state x="485" y="160" key="CommitChangelistDialog2" timestamp="1657961719145">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="485" y="160" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1657961719145" />
+    <state width="1417" height="318" key="GridCell.Tab.0.bottom" timestamp="1657961407557">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1417" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1657961407557" />
+    <state width="1750" height="391" key="GridCell.Tab.0.bottom/0.25.1792.1010@0.25.1792.1010" timestamp="1657423302251" />
+    <state width="1417" height="318" key="GridCell.Tab.0.center" timestamp="1657961407556">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1417" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1657961407556" />
+    <state width="1750" height="391" key="GridCell.Tab.0.center/0.25.1792.1010@0.25.1792.1010" timestamp="1657423302251" />
+    <state width="1417" height="318" key="GridCell.Tab.0.left" timestamp="1657961407556">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1417" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1657961407556" />
+    <state width="1750" height="391" key="GridCell.Tab.0.left/0.25.1792.1010@0.25.1792.1010" timestamp="1657423302251" />
+    <state width="1417" height="318" key="GridCell.Tab.0.right" timestamp="1657961407557">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1417" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1657961407557" />
+    <state width="1750" height="391" key="GridCell.Tab.0.right/0.25.1792.1010@0.25.1792.1010" timestamp="1657423302251" />
+    <state width="1417" height="318" key="GridCell.Tab.1.bottom" timestamp="1657961407558">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1417" height="318" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1657961407558" />
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom/0.25.1792.1010@0.25.1792.1010" timestamp="1657423302252" />
+    <state width="1417" height="318" key="GridCell.Tab.1.bottom/0.25.1792.1013@0.25.1792.1013" timestamp="1657425191968" />
+    <state width="1417" height="318" key="GridCell.Tab.1.center" timestamp="1657961407558">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1417" height="318" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1657961407558" />
+    <state width="1750" height="391" key="GridCell.Tab.1.center/0.25.1792.1010@0.25.1792.1010" timestamp="1657423302252" />
+    <state width="1417" height="318" key="GridCell.Tab.1.center/0.25.1792.1013@0.25.1792.1013" timestamp="1657425191967" />
+    <state width="1417" height="318" key="GridCell.Tab.1.left" timestamp="1657961407558">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1417" height="318" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1657961407558" />
+    <state width="1750" height="391" key="GridCell.Tab.1.left/0.25.1792.1010@0.25.1792.1010" timestamp="1657423302251" />
+    <state width="1417" height="318" key="GridCell.Tab.1.left/0.25.1792.1013@0.25.1792.1013" timestamp="1657425191967" />
+    <state width="1417" height="318" key="GridCell.Tab.1.right" timestamp="1657961407558">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1417" height="318" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1657961407558" />
+    <state width="1750" height="391" key="GridCell.Tab.1.right/0.25.1792.1010@0.25.1792.1010" timestamp="1657423302252" />
+    <state width="1417" height="318" key="GridCell.Tab.1.right/0.25.1792.1013@0.25.1792.1013" timestamp="1657425191967" />
+    <state width="1417" height="318" key="GridCell.Tab.2.bottom" timestamp="1657961407559">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1417" height="318" key="GridCell.Tab.2.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1657961407559" />
+    <state width="1750" height="391" key="GridCell.Tab.2.bottom/0.25.1792.1010@0.25.1792.1010" timestamp="1657423302253" />
+    <state width="1417" height="318" key="GridCell.Tab.2.center" timestamp="1657961407559">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1417" height="318" key="GridCell.Tab.2.center/0.0.1792.1120@0.0.1792.1120" timestamp="1657961407559" />
+    <state width="1750" height="391" key="GridCell.Tab.2.center/0.25.1792.1010@0.25.1792.1010" timestamp="1657423302252" />
+    <state width="1417" height="318" key="GridCell.Tab.2.left" timestamp="1657961407558">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1417" height="318" key="GridCell.Tab.2.left/0.0.1792.1120@0.0.1792.1120" timestamp="1657961407558" />
+    <state width="1750" height="391" key="GridCell.Tab.2.left/0.25.1792.1010@0.25.1792.1010" timestamp="1657423302252" />
+    <state width="1417" height="318" key="GridCell.Tab.2.right" timestamp="1657961407559">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1417" height="318" key="GridCell.Tab.2.right/0.0.1792.1120@0.0.1792.1120" timestamp="1657961407559" />
+    <state width="1750" height="391" key="GridCell.Tab.2.right/0.25.1792.1010@0.25.1792.1010" timestamp="1657423302252" />
+    <state x="384" y="138" key="SettingsEditor" timestamp="1657432630531">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="384" y="138" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1657432630531" />
+    <state x="573" y="389" key="com.intellij.ide.util.TipDialog" timestamp="1657423434921">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="573" y="389" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1657423434921" />
+    <state x="299" y="254" key="new project wizard" timestamp="1657420394913">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="299" y="254" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1657420394913" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/remote/src/main/java/com/ycx/dubbo/remote/controller/UserController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/remote/src/main/java/com/ycx/dubbo/remote/controller/UserController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dubbo_demo$CoreApplication.ic" NAME="CoreApplication Coverage Results" MODIFIED="1657435365931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
